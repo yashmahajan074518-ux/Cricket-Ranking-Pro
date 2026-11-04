@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Ranking Pro",
+  "description": "Elite international-standard cricket statistics and ranking platform for local and gully cricket groups with ICC-style rankings, career metrics, and match recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
